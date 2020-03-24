@@ -2,273 +2,219 @@
     "producers": [
         {
             "id": 0,
-            "name": "eosasia11111",
-            "rank": 22
+            "name": "eosasia11111"
         },
         {
             "id": 1,
-            "name": "eoslaomaocom",
-            "rank": 23
+            "name": "eoslaomaocom"
         },
         {
             "id": 2,
-            "name": "cochainworld",
-            "rank": 24
+            "name": "cochainworld"
         },
         {
             "id": 3,
-            "name": "binancestake",
-            "rank": 25
+            "name": "binancestake"
         },
         {
             "id": 4,
-            "name": "certikeosorg",
-            "rank": 26
+            "name": "certikeosorg"
         },
         {
             "id": 5,
-            "name": "eosbeijingbp",
-            "rank": 27
+            "name": "eosbeijingbp"
         },
         {
             "id": 6,
-            "name": "hoo.com",
-            "rank": 28
+            "name": "hoo.com"
         },
         {
             "id": 7,
-            "name": "slowmistiobp",
-            "rank": 29
+            "name": "slowmistiobp"
         },
         {
             "id": 8,
-            "name": "eossv12eossv",
-            "rank": 30
+            "name": "eossv12eossv"
         },
         {
             "id": 9,
-            "name": "eoslambdacom",
-            "rank": 31
+            "name": "eoslambdacom"
         },
         {
             "id": 10,
-            "name": "truststaking",
-            "rank": 32
+            "name": "truststaking"
         },
         {
             "id": 11,
-            "name": "eosflareiobp",
-            "rank": 33
+            "name": "eosflareiobp"
         },
         {
             "id": 12,
-            "name": "aus1genereos",
-            "rank": 34
+            "name": "aus1genereos"
         },
         {
             "id": 13,
-            "name": "eosswedenorg",
-            "rank": 35
+            "name": "eosswedenorg"
         },
         {
             "id": 14,
-            "name": "eosauthority",
-            "rank": 36
+            "name": "eosauthority"
         },
         {
             "id": 15,
-            "name": "eosedubpbest",
-            "rank": 37
+            "name": "eosedubpbest"
         },
         {
             "id": 16,
-            "name": "eoscafeblock",
-            "rank": 38
+            "name": "eoscafeblock"
         },
         {
             "id": 17,
-            "name": "argentinaeos",
-            "rank": 39
+            "name": "argentinaeos"
         },
         {
             "id": 18,
-            "name": "eossnzpoolbp",
-            "rank": 40
+            "name": "eossnzpoolbp"
         },
         {
             "id": 19,
-            "name": "cypherglasss",
-            "rank": 41
+            "name": "cypherglasss"
         },
         {
             "id": 20,
-            "name": "geosoneforbp",
-            "rank": 42
+            "name": "geosoneforbp"
         },
         {
             "id": 21,
-            "name": "alohaeosprod",
-            "rank": 43
+            "name": "alohaeosprod"
         },
         {
             "id": 22,
-            "name": "eostitanprod",
-            "rank": 44
+            "name": "eostitanprod"
         },
         {
             "id": 23,
-            "name": "eos42freedom",
-            "rank": 45
+            "name": "eos42freedom"
         },
         {
             "id": 24,
-            "name": "eosathenabp1",
-            "rank": 46
+            "name": "eosathenabp1"
         },
         {
             "id": 25,
-            "name": "eosnairobike",
-            "rank": 47
+            "name": "eosrainbowbp"
         },
         {
             "id": 26,
-            "name": "eosrainbowbp",
-            "rank": 48
+            "name": "acroeos12345"
         },
         {
             "id": 27,
-            "name": "acroeos12345",
-            "rank": 49
+            "name": "hexlantttttt"
         },
         {
             "id": 28,
-            "name": "hexlantttttt",
-            "rank": 50
+            "name": "dexeosbpnode"
         },
         {
             "id": 29,
-            "name": "dexeosbpnode",
-            "rank": 51
+            "name": "validatoreos"
         },
         {
             "id": 30,
-            "name": "validatoreos",
-            "rank": 52
+            "name": "eosnairobike"
         },
         {
             "id": 31,
-            "name": "ecoboost1111",
-            "rank": 53
+            "name": "ecoboost1111"
         },
         {
             "id": 32,
-            "name": "moreisfuture",
-            "rank": 54
+            "name": "moreisfuture"
         },
         {
             "id": 33,
-            "name": "eoshenzhenio",
-            "rank": 55
+            "name": "eoshenzhenio"
         },
         {
             "id": 34,
-            "name": "eosnewyorkio",
-            "rank": 56
+            "name": "eoscanadacom"
         },
         {
             "id": 35,
-            "name": "eoscanadacom",
-            "rank": 57
+            "name": "eosnewyorkio"
         },
         {
             "id": 36,
-            "name": "unlimitedeos",
-            "rank": 58
+            "name": "unlimitedeos"
         },
         {
             "id": 37,
-            "name": "eosriobrazil",
-            "rank": 59
+            "name": "eosriobrazil"
         },
         {
             "id": 38,
-            "name": "cryptolions1",
-            "rank": 60
+            "name": "cryptolions1"
         },
         {
             "id": 39,
-            "name": "teamgreymass",
-            "rank": 61
+            "name": "teamgreymass"
         },
         {
             "id": 40,
-            "name": "eosnodeonebp",
-            "rank": 62
+            "name": "eosnodeonebp"
         },
         {
             "id": 41,
-            "name": "eosphereiobp",
-            "rank": 63
+            "name": "eosphereiobp"
         },
         {
             "id": 42,
-            "name": "hkeoshkeosbp",
-            "rank": 64
+            "name": "hkeoshkeosbp"
         },
         {
             "id": 43,
-            "name": "eoscleanerbp",
-            "rank": 65
+            "name": "eoscleanerbp"
         },
         {
             "id": 44,
-            "name": "eosdacserver",
-            "rank": 66
+            "name": "eosdacserver"
         },
         {
             "id": 45,
-            "name": "sheos21sheos",
-            "rank": 67
+            "name": "sheos21sheos"
         },
         {
             "id": 46,
-            "name": "eosiodetroit",
-            "rank": 68
+            "name": "eosiodetroit"
         },
         {
             "id": 47,
-            "name": "tokenika4eos",
-            "rank": 69
+            "name": "tokenika4eos"
         },
         {
             "id": 48,
-            "name": "eosdublinwow",
-            "rank": 70
+            "name": "eosdublinwow"
         },
         {
             "id": 49,
-            "name": "libertyblock",
-            "rank": 71
+            "name": "libertyblock"
         },
         {
             "id": 50,
-            "name": "eosisgravity",
-            "rank": 72
+            "name": "eosisgravity"
         },
         {
             "id": 51,
-            "name": "eos.fish",
-            "rank": 73
+            "name": "eos.fish"
         },
         {
             "id": 52,
-            "name": "eosyskoreabp",
-            "rank": 74
+            "name": "eosamsterdam"
         },
         {
             "id": 53,
-            "name": "eosamsterdam",
-            "rank": 75
+            "name": "eosyskoreabp"
         }
     ]
 }
